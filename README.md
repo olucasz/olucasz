@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=30D42E&background=001D00B1&random=true&width=880&lines=Ol%C3%A1%2C+eu+sou+olucasz!+%3AD;Ol%C3%A1%2C+eu+sou+o+Lucas!+%3AD)](https://git.io/typing-svg)
 ## 🟢 Sobre Mim:
 - 🎓 Formado em Ciência da Computação
 - 😍 Apaixonado por Tecnologia, Música e Design
